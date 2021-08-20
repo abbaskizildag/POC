@@ -105,5 +105,10 @@ namespace PocWinApplication
 
             dataGridView1.DataSource = table; 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
